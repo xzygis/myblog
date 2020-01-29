@@ -4,11 +4,11 @@
 
 # Site
 title: 聊斋志技
-subtitle: 'Stay hungry, stay foolish!'
+subtitle: '求知若渴，虚心若愚~'
 description: '聊技术，谈人生'
 keywords:
 author: 楚兴
-language: zh-Hans
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -100,7 +100,7 @@ search:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: my-hexo-theme-next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
