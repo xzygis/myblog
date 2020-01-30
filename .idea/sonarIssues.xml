@@ -23,6 +23,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/public/2020/01/30/Usage-of-JSON-Web-Token/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/public/archives/index.html">
           <value>
             <set />
@@ -54,6 +59,36 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/source/_posts/20200129-Introduction-of-K8S.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/source/_posts/20200130-CentOS-install-docker.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/source/_posts/20200130-Manual-of-consul.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/source/_posts/20200130-SO-REUSEADDR-SO-REUSEPORT.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/source/_posts/20200130-Usage-of-JSON-Web-Token.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/source/_posts/20200130-Usage-of-docker-container.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/source/_posts/20200130-Usage-of-docker-image.md">
           <value>
             <set />
           </value>
