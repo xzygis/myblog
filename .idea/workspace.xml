@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcf0986e-281f-4be3-857d-793013e0747e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/20221127-Tair-A-distributed-key-value-storage-system-developed-by-Alibaba-Group/tair_structure.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/20221127-Tair-A-distributed-key-value-storage-system-developed-by-Alibaba-Group.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20221127-Tair-A-distributed-key-value-storage-system-developed-by-Alibaba-Group.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
