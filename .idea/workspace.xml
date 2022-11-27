@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcf0986e-281f-4be3-857d-793013e0747e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/20200127-How-to-create-a-hexo-blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20200127-How-to-create-a-hexo-blog.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/20200127-Introduction-of-API-GateWay.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20200127-Introduction-of-API-GateWay.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/20200128-Introduction-of-Cloud-Native.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20200128-Introduction-of-Cloud-Native.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/20200128-Introduction-of-Service-Mesh.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20200128-Introduction-of-Service-Mesh.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/20200129-Introduction-of-K8S.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20200129-Introduction-of-K8S.md" afterDir="false" />
-    </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="bcf0986e-281f-4be3-857d-793013e0747e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1X4C4M22YFwywD6LCZt5ECRj4R7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -38,32 +31,18 @@
       <recent name="$PROJECT_DIR$/source/_posts/20200130-Usage-of-JSON-Web-Token" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
   </component>
 </project>
